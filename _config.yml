@@ -105,8 +105,8 @@ analytics:
 author:
   name: "최정환 | Choi JeongHwan"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Code your dream"
-  location: "South Korea"
+  bio: ""Code your dream""
+  location: "Gyeonggi-do, South Korea"
   email:
   links:
     - label: "Email"
