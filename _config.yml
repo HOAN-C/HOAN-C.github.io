@@ -20,7 +20,7 @@ title: "HOAN's Blog"
 title_separator: "|"
 subtitle: # site tagline that appears below site title in masthead
 name: "최정환(CHOI JEONGHWAN)"
-description: "CODE YOUR DREAM"
+description: "개발공부일지"
 url: "https://hoan-c.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Name"
+  name: "최정환(CHOI JEONGHWAN)"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
-  location: "Somewhere"
+  bio: "CODE YOUR DREAM"
+  location: "South Korea"
   email:
   links:
     - label: "Email"
