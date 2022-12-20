@@ -3,7 +3,7 @@ title: "하루감상평"
 layout: single
 permalink: diary
 author_profile: true
-sidebar_main: false
+sidebar_main: true
 ---
 
 {% assign posts = site.categories.diary %}
