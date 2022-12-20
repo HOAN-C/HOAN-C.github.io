@@ -1,6 +1,6 @@
 ---
 title: "하루감상평"
-layout: archive
+layout: single
 permalink: diary
 author_profile: true
 sidebar_main: false
