@@ -2,7 +2,7 @@
 layout: single
 title: "C++"
 categories:
-  - C++
+  - CPP
 ---
 
 cpp 테스트

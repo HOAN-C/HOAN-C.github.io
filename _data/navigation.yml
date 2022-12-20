@@ -28,11 +28,11 @@ sidebar-category:
         url: "/algorithm"
       - title: "GitHub"
         url: "/github"
-  - title: "Coding Test"
+  - title: "Projects"
     children:
-      - title: "Questions"
-        url: "/questions"
-  - title: "Book report"
+      - title: "Coding test"
+        url: "/codingtest"
+  - title: "Report"
     children:
       - title: "Tech"
         url: "/tech"
