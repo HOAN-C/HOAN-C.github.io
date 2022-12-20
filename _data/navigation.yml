@@ -21,4 +21,14 @@ sidebar-category:
       - title: "JavaScript"
         url: "/js"
       - title: "C++"
-        url: "c++"
+        url: "/c++"
+  - title: "Tech"
+    children:
+      - title: "Algorithm"
+        url: "/algorithm"
+      - title: "GitHub"
+        url: "/github"
+  - title: "Coding Test"
+    children:
+      - title: "Book report"
+  - title: "/bookreport"
