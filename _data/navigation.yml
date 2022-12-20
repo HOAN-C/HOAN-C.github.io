@@ -10,3 +10,15 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-category:
+  - title: "Daily"
+    children:
+      - title: "하루감상평"
+        url: "/diary"
+  - title: "Programing Lang"
+    children:
+      - title: "JavaScript"
+        url: "/js"
+      - title: "C++"
+        url: "c++"
