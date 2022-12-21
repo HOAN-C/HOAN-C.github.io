@@ -20,7 +20,7 @@ title: "HOAN'S DEV Blog"
 title_separator: "|"
 subtitle: # site tagline that appears below site title in masthead
 name: "최정환(CHOI JEONGHWAN)"
-description: "개발공부일지"
+description: "심심하게 공부하는 컴퓨터공학과 대학생"
 url: "https://hoan-c.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
