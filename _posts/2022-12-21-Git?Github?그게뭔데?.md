@@ -5,11 +5,9 @@ categories:
   - github
 ---
 
-# Git? Github? 그게 뭔데? 🤷
-
 ## 정의
 
-![gitLogo.png](/HOAN-C.github.io/assets/img/gitLogo.png)
+![gitLogo.png](/assets/img/gitLogo.png)
 
 ### Git
 
@@ -17,7 +15,7 @@ categories:
 
 - 파일을 버전별로 기록하고 관리하는 것을 돕는 버전 관리 시스템이다.
 
-![gitHubLogo.png](/HOAN-C.github.io/assets/img/gitHubLogo.png)
+![gitHubLogo.png](/assets/img/gitHubLogo.png)
 
 ### Github
 
