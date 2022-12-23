@@ -11,7 +11,7 @@ categories:
 
 ### Git
 
-> [컴퓨터 파일](https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0_%ED%8C%8C%EC%9D%BC)의 변경사항을 추적, 사용자들 간에 해당 파일들의 작업을 조율하기 위한 [분산 버전 관리 시스템](https://ko.wikipedia.org/wiki/%EB%B6%84%EC%82%B0_%EB%B2%84%EC%A0%84_%EA%B4%80%EB%A6%AC_%EC%8B%9C%EC%8A%A4%ED%85%9C)
+> [컴퓨터 파일](https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0_%ED%8C%8C%EC%9D%BC)의 변경사항을 추적, 해당 파일들의 작업을 조율하기 위한 [분산 버전 관리 시스템](https://ko.wikipedia.org/wiki/%EB%B6%84%EC%82%B0_%EB%B2%84%EC%A0%84_%EA%B4%80%EB%A6%AC_%EC%8B%9C%EC%8A%A4%ED%85%9C)
 
 - 파일을 버전별로 기록하고 관리하는 것을 돕는 버전 관리 시스템이다.
 
