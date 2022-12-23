@@ -53,7 +53,7 @@ git config --global user.email "사용자 이메일"
 git config --list
 ```
 
-![Untitled](/assets/img/2022-12-23-1.png)
+![Untitled](/assets/img/2022-12-23-1-1.png)
 
 위처럼 출력이 되는데, [user.name](http://user.name) 과 [user.email](http://user.email) 에 자기가 기입한 정보가 잘 들어갔는지 확인하면 된다.
 
