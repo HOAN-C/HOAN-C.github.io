@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "Git? Github? 그게 뭔데? 🤷"
+title: "🤷 Git? Github? 그게 뭔데?"
 categories:
   - github
 ---
 
 ## 정의
 
-![gitLogo.png](/assets/img/gitLogo.png)
+![gitLogo.png](/assets/img/2022-12-21-1-1.png)
 
 ### Git
 
@@ -15,7 +15,7 @@ categories:
 
 - 파일을 버전별로 기록하고 관리하는 것을 돕는 버전 관리 시스템이다.
 
-![gitHubLogo.png](/assets/img/gitHubLogo.png)
+![gitHubLogo.png](/assets/img/2022-12-21-1-2.png)
 
 ### Github
 
