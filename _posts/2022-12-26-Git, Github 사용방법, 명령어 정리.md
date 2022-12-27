@@ -7,10 +7,7 @@ tags: [git, github, 깃, 깃허브, 명령어, 사용방법]
 toc: true
 ---
 
-<aside>
 💡 Git, Github 사용방법 및 명령어에 대해 알아보자!
-
-</aside>
 
 지금까지 Git, Github를 사용하기 위한 준비를 끝냈다.
 
@@ -229,11 +226,8 @@ git log --oneline --graph
 
 ## merge 고급기능
 
-<aside>
 💡 3-way-merge : branch 생성 후 main branch에 새 commit이 있을 때 merge
 fast-forward-merge : breanch 생성 후 main branch에 새 commit이 없을 때 merge
-
-</aside>
 
 ### rebase
 
@@ -249,10 +243,7 @@ git merge --squash "브랜치명" : log 출력시 깔끔하게 보일 수 있음
 
 ## git branch -d, -D : 브랜치 삭제
 
-<aside>
 💡 브랜치는 merge 후에도 남아있게 된다.
-
-</aside>
 
 ```
 git branch -d “branch 이름” //merge 완료된 브렌치 삭제
@@ -302,10 +293,7 @@ git reset --mixed "commit아이디" //해당 commit이 생성될 때 시점으�
 
 ## git push : 원격저장소(github)에 업로드
 
-<aside>
 💡 업로드할 원격저장소 주소가 없다면 github에서 repository(저장소) 생성 후 링크를 복사하자!
-
-</aside>
 
 ```
 git push -u "원격저장주소" "브랜치명" //Github에서 만든 원격 저장소에 올리기
