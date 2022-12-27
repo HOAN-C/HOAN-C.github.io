@@ -4,6 +4,7 @@ title: "💾 Git, Github 사전준비"
 categories:
   - github
 tags: [git, github, 깃, 깃허브, 명령어, 사용방법]
+comments: true
 toc: true
 ---
 
