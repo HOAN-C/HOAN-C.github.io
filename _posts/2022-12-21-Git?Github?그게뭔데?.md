@@ -3,11 +3,13 @@ layout: single
 title: "🤷 Git? Github? 그게 뭔데?"
 categories:
   - github
+tags: [git, github, 깃, 깃허브, 명령어, 사용방법]
+toc: true
 ---
 
 ## 정의
 
-![gitLogo.png](/assets/img/2022-12-21-1-1.png)
+![gitLogo.png](/assets/img/221221/1.png)
 
 ### Git
 
@@ -15,7 +17,7 @@ categories:
 
 - 파일을 버전별로 기록하고 관리하는 것을 돕는 버전 관리 시스템이다.
 
-![gitHubLogo.png](/assets/img/2022-12-21-1-2.png)
+![gitHubLogo.png](/assets/img/221221/2.png)
 
 ### Github
 

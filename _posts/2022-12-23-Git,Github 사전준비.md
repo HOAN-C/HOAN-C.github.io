@@ -3,6 +3,8 @@ layout: single
 title: "💾 Git, Github 사전준비"
 categories:
   - github
+tags: [git, github, 깃, 깃허브, 명령어, 사용방법]
+toc: true
 ---
 
 ## 사전준비
@@ -53,7 +55,7 @@ git config --global user.email "사용자 이메일"
 git config --list
 ```
 
-![Untitled](/assets/img/2022-12-23-1-1.png)
+![Untitled](/assets/img/221223/1.png)
 
 위처럼 출력이 되는데, [user.name](http://user.name) 과 [user.email](http://user.email) 에 자기가 기입한 정보가 잘 들어갔는지 확인하면 된다.
 
