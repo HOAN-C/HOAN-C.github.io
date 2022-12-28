@@ -1,7 +1,7 @@
 ---
 title: "Github"
 layout: single
-permalink: github
+permalink: /github/
 author_profile: true
 sidebar_main: true
 ---

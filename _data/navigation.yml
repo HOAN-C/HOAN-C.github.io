@@ -15,24 +15,24 @@ sidebar-category:
   - title: "Daily"
     children:
       - title: "하루감상평"
-        url: "/diary"
+        url: "/diary/"
   - title: "Programing Lang"
     children:
       - title: "JavaScript"
-        url: "/js"
+        url: "/js/"
       - title: "C++"
-        url: "/cpp"
+        url: "/cpp/"
   - title: "Tech"
     children:
       - title: "Algorithm"
-        url: "/algorithm"
+        url: "/algorithm/"
       - title: "GitHub"
-        url: "/github"
+        url: "/github/"
   - title: "Projects"
     children:
       - title: "Coding test"
-        url: "/codingtest"
+        url: "/codingtest/"
   - title: "Report"
     children:
       - title: "Tech"
-        url: "/tech"
+        url: "/tech/"
