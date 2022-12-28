@@ -6,6 +6,8 @@ categories:
 tags: [git, github, 깃, 깃허브, 명령어, 사용방법]
 comments: true
 toc: true
+sidebar:
+  nav: "docs"
 ---
 
 💡 Git, Github 사용방법 및 명령어에 대해 알아보자!

@@ -3,7 +3,8 @@ title: "Tech"
 layout: single
 permalink: /tech/
 author_profile: true
-sidebar_main: true
+sidebar:
+  nav: "docs"
 ---
 
 {% assign posts = site.categories.tech %}

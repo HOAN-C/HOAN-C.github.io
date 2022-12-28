@@ -3,7 +3,8 @@ title: "C++"
 layout: single
 permalink: /cpp/
 author_profile: true
-sidebar_main: true
+sidebar:
+  nav: "docs"
 ---
 
 {% assign posts = site.categories.CPP %}

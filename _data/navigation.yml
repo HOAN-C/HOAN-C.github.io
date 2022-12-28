@@ -11,7 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-sidebar-category:
+docs:
   - title: "Daily"
     children:
       - title: "Dairy"

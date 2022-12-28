@@ -3,7 +3,8 @@ title: "Diary"
 layout: single
 permalink: /diary/
 author_profile: true
-sidebar_main: true
+sidebar:
+  nav: "docs"
 ---
 
 {% assign posts = site.categories.diary %}
