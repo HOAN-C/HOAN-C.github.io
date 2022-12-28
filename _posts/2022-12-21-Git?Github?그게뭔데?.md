@@ -8,13 +8,13 @@ comments: true
 toc: true
 ---
 
-## 💡git, github이 뭔지 알아보자
+### 💡git, github이 뭔지 알아보자
 
-# 정의
+## 정의
 
 ![gitLogo.png](/assets/img/221221/1.png)
 
-## Git
+### Git
 
 > [컴퓨터 파일](https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0_%ED%8C%8C%EC%9D%BC)의 변경사항을 추적, 해당 파일들의 작업을 조율하기 위한 [분산 버전 관리 시스템](https://ko.wikipedia.org/wiki/%EB%B6%84%EC%82%B0_%EB%B2%84%EC%A0%84_%EA%B4%80%EB%A6%AC_%EC%8B%9C%EC%8A%A4%ED%85%9C)
 
@@ -22,16 +22,16 @@ toc: true
 
 ![gitHubLogo.png](/assets/img/221221/2.png)
 
-## Github
+### Github
 
 > 버전 관리 툴, Git 저장소 호스팅을 지원하는 웹 서비스
 
 - Git을 온라인에서 쓸 수 있도록 해주는 서비스
 - 협업을 원활하게 해준다.
 
-# 사용이유
+## 사용이유
 
-## Git 사용이유
+### Git 사용이유
 
 - 📄 프로젝트 최종
 - 📄 프로젝트 최종(수정)
@@ -45,7 +45,7 @@ toc: true
 
 이럴 때 Git을 사용하게 된다면 편하게 복구, 수정 할 수 있다.
 
-## Github 사용이유
+### Github 사용이유
 
 혼자 개발할 수 있는 규모의 프로젝트는 상관 없지만, 대부분의 프로젝트는 협업을 필요로 한다. 소프트웨어 개발의 특성상 로컬저장소 또는 메일을 이용하기엔 부족함이 많다. 따라서 실시간으로 작업 내용을 공유할 수 있는 공간이 필요하다. 이를 해결 해주는 것이 바로 Github이다.
 

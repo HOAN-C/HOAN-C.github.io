@@ -1,7 +1,7 @@
 ---
 title: "C++"
 layout: single
-permalink: cpp
+permalink: /cpp/
 author_profile: true
 sidebar_main: true
 ---

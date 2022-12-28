@@ -1,7 +1,7 @@
 ---
 title: "Tech"
 layout: single
-permalink: tech
+permalink: /tech/
 author_profile: true
 sidebar_main: true
 ---

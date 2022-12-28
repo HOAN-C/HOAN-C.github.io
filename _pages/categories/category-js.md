@@ -1,7 +1,7 @@
 ---
 title: "JavaScript"
 layout: single
-permalink: js
+permalink: /js/
 author_profile: true
 sidebar_main: true
 ---

@@ -8,11 +8,11 @@ comments: true
 toc: true
 ---
 
-## 💡git, github을 사용하기 위한 사전준비를 해보자
+### 💡git, github을 사용하기 위한 사전준비를 해보자
 
-# 사전준비
+## 사전준비
 
-## 1. Github 가입하기
+### 1. Github 가입하기
 
 [https://github.com](https://github.com/)
 
@@ -22,7 +22,7 @@ Github에서 계정을 하나 생성하자.
 
 ---
 
-## 2. Git 다운로드 받기
+### 2. Git 다운로드 받기
 
 [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
@@ -32,7 +32,7 @@ next 클릭클릭클릭클릭
 
 ---
 
-# 초기설정
+## 초기설정
 
 설치가 완료됐으면 Git bash 프로그램을 실행시켜보자.
 
@@ -40,19 +40,19 @@ next 클릭클릭클릭클릭
 
 겁먹지 말고 아래 코드들을 따라 지면 된다.
 
-## 사용자 이름 설정
+### 사용자 이름 설정
 
 ```
 git config --global user.name "사용자 이름"
 ```
 
-## 사용자 이메일 설정
+### 사용자 이메일 설정
 
 ```
 git config --global user.email "사용자 이메일"
 ```
 
-## 설정 확인
+### 설정 확인
 
 ```
 git config --list

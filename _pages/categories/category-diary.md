@@ -1,7 +1,7 @@
 ---
-title: "하루감상평"
+title: "Diary"
 layout: single
-permalink: diary
+permalink: /diary/
 author_profile: true
 sidebar_main: true
 ---
