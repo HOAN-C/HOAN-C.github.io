@@ -5,7 +5,7 @@ categories:
   - github
 tags: [git, github, 깃, 깃허브, 명령어, 사용방법]
 comments: true
-toc: true
+toc_sticky: true
 sidebar:
   nav: "docs"
 ---
